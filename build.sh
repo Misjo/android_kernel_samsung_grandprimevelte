@@ -14,6 +14,5 @@ cd ..
 tar -H ustar -c boot.img > boot.tar
 md5sum -t boot.tar >> boot.tar
 mv boot.tar boot.tar.md5
-rm -rf boot.img
 echo "Your output file is boot.tar.md5"
 

@@ -1,7 +1,7 @@
-/* This file is auto generated, version 2 */
+/* This file is auto generated, version 3 */
 /* SMP PREEMPT */
 #define UTS_MACHINE "arm64"
-#define UTS_VERSION "#2 SMP PREEMPT Thu Nov 24 20:43:35 CET 2016"
-#define LINUX_COMPILE_BY "daniel"
-#define LINUX_COMPILE_HOST "dadziokpl"
+#define UTS_VERSION "#3 SMP PREEMPT Sun Dec 25 14:41:53 CET 2016"
+#define LINUX_COMPILE_BY "dadziokpl"
+#define LINUX_COMPILE_HOST "dadziokpl-virtual-machine"
 #define LINUX_COMPILER "gcc version 4.8 (GCC) "
